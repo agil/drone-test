@@ -6,6 +6,8 @@ script:
   - bower install
   - grunt build
   - grunt karma
+git:
+  branch: master
 notify:
   email:
     recipients:
