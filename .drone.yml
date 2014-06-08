@@ -1,0 +1,7 @@
+image: bradrydzewski/node:0.10
+script:
+  - grunt karma
+notify:
+  email:
+    recipients:
+      - golikov.aleksey@gmail.com
