@@ -1,7 +1,5 @@
 image: nodejs-testing
 script:
-  - apt-get install phantomjs
-  - npm -g install grunt-cli karma bower
   - npm install
   - bower install
   - grunt build
