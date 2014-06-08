@@ -1,7 +1,7 @@
 image: nodejs-testing
 script:
   - npm install
-  - bower install
+  - bower install --allow-root
   - grunt build
   - grunt karma
 git:
