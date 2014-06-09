@@ -1,4 +1,4 @@
-# [ngBoilerplate](http://joshdmiller.github.com/ng-boilerplate) [![Build Status](https://api.travis-ci.org/ngbp/ngbp.png?branch=v0.3.2-release)](https://travis-ci.org/ngbp/ngbp)
+# [ngBoilerplate](http://joshdmiller.github.com/ng-boilerplate) [![Build Status](http://31.41.112.134:9000/github.com/agil/drone-test/status.svg?branch=master)](http://31.41.112.134:9000/github.com/agil/drone-test)
 
 An opinionated kickstarter for [AngularJS](http://angularjs.org) projects.
 
