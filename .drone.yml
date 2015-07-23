@@ -1,13 +1,10 @@
 image: nodejs-testing
-
 script:
   - npm install
   - bower install --allow-root
   - grunt
-
 git:
   branch: master
-
 notify:
   email:
     recipients:
